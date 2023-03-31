@@ -48,6 +48,10 @@ Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+
+
 
 
 ### :fire: My Stats :
