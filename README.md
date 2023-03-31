@@ -33,9 +33,7 @@ Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :zap: In my free time, I read tech articles.
 - :zap: I like listening to music and also making music.
 - :zap: I love going out on adventures and visit new places.
-- - :zap: I love Chatting with my friends and having a great time with them.
 - :zap: In my free time, I read tech articles, listen to music and also make music .
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-sarreqi-646061256/)
 
 
