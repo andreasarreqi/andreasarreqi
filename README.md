@@ -27,7 +27,7 @@
 
 
 ### :woman_technologist: About Me :
-Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Code Institute.
+With a Diploma in Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Code Institute.
 
 - :zap: Looking to learn new things and broaden my coding knowledge.
 - :zap: In my free time, I read tech articles.
